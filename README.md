@@ -1,9 +1,4 @@
-<!-- <div align=center>
-<h1>Hello, world ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> </h1>
-
-  :blue_heart: Programming | :blue_heart: Design -->
-
-  <h3 align="center">Hello there, I'm Jia 👋</h3>
+  <h1 align="center">Hello there, I'm Jia 👋</h1>
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/jiajang/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
