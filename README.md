@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 <!--
-**jangjia01234/jangjia01234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,4 +12,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
