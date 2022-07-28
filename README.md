@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jia Jang</h1>
 <h3 align="center">A passionate frontend developer from South Korea</h3>
 
-- 📝 I regularly write articles on [https://hejnino.tistory.com/](https://hejnino.tistory.com/)
-
-- 📫 How to reach me **jangjia01234@gmail.com**
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
