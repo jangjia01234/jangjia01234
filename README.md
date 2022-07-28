@@ -3,7 +3,7 @@
 
 ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
   
-:black_heart: Programming | :white_heart: Design
+:💚: Programming | 💚: Design
 
   
 
