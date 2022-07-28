@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jia Jang</h1>
 <h3 align="center">A passionate frontend developer from South Korea</h3>
 
-- 🌱 I’m currently learning **javascript**
-
 - 📝 I regularly write articles on [https://hejnino.tistory.com/](https://hejnino.tistory.com/)
-
-- 💬 Ask me about **UI/UX design**
 
 - 📫 How to reach me **jangjia01234@gmail.com**
 
