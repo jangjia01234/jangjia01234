@@ -1,11 +1,16 @@
 <div align=center>
 <h1>Hello, world!</h1>
 
-**name: Half-year calendar
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
-**
+# Clone this project
+$ git clone https://github.com/maurodesouza/profile-readme-generator
+
+# Access
+$ cd profile-readme-generator
+
+# Install dependencies
+$ yarn
+
+# Run the project
+$ yarn dev
+
+# The server will initialize in the <http://localhost:3000>
