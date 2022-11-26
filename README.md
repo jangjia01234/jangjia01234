@@ -1,8 +1,6 @@
   <h1 align="center"> Hej, jag är Jia <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h1>
   <div align="center">
-  <a href="https://hejnino.tistory.com//">
-  <img  src="https://github.com/jangjia01234/jangjia01234/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img src="https://github.com/jangjia01234/jangjia01234/blob/master/gifs/Hi.gif" width="30px">
 </div>
 <h5 align="center">
   <code>
