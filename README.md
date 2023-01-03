@@ -1,4 +1,4 @@
-  <h1 align="center"> Hej, jag är Jia !<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h1>
+  <h1 align="center"> Hej, jag är Jia ! <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h1>
   <div align="center">
 
 </div>
