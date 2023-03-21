@@ -11,6 +11,6 @@
 <br>
 <div align="center">
   
-![Jia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangjia01234&show_icons=true&theme=transparent)
+
   
 </div>
