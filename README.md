@@ -8,7 +8,7 @@
 <br />
   <div align="center">
   
-  [![Jia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangjia01234)](https://github.com/jangjia01234/github-readme-stats)
+  [![Jia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangjia01234&theme=radical)](https://github.com/jangjia01234/github-readme-stats)
 
 </div>
 
