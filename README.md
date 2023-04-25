@@ -2,6 +2,8 @@
 
 I'm Jia, a frontend web developer with a focus on React and JavaScript. <br/> I build interactive and functional user interfaces that are optimized for performance and accessibility.
 
+<br />
+
 ## 🔧 Skills & Tools
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
@@ -9,14 +11,18 @@ I'm Jia, a frontend web developer with a focus on React and JavaScript. <br/> I 
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Hosting-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=2bbc8a)
 
+<br />
+
 ## 📊 GitHub Stats
 
 ![Jang Jia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangjia01234&show_icons=true&theme=dracula)
 
+<br />
+
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jiajang/)
-[![Blog](https://img.shields.io/badge/-Portfolio-000000?logo=react&logoColor=white&style=for-the-badge)](https://hejnino.tistory.com/)
+[![Blog](https://img.shields.io/badge/-Blog-000000?logo=react&logoColor=white&style=for-the-badge)](https://hejnino.tistory.com/)
 [![Instagram](https://img.shields.io/badge/-Instagram-1DA1F2?logo=instagram&logoColor=white&style=for-the-badge)]([https://instagram.com/your-instagram-profile](https://www.instagram.com/dazezd_z/))
 
 
