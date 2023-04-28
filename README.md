@@ -8,7 +8,7 @@ I'm Jia, a frontend web developer with a focus on React and JavaScript. <br/> I 
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Styledcomponents-informational?style=flat&logo=styled-components&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Style-StyledComponents-informational?style=flat&logo=styled-components&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Hosting-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=2bbc8a)
 
