@@ -27,7 +27,3 @@ I'm Jia, a frontend web developer with a focus on React and JavaScript. <br/> I 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jiajang/)
 [![Blog](https://img.shields.io/badge/-Blog-333?logo=react&logoColor=white&style=for-the-badge)](https://hejnino.tistory.com/)
 [![Instagram](https://img.shields.io/badge/-Instagram-333?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/dazezd_z/)
-
-<br />
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjangjia01234&count_bg=%23838383&title_bg=%23555555&icon=&icon_color=%23656565&title=%F0%9F%91%80&edge_flat=false)](https://hits.seeyoufarm.com)
