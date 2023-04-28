@@ -27,3 +27,5 @@ I'm Jia, a frontend web developer with a focus on React and JavaScript. <br/> I 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jiajang/)
 [![Blog](https://img.shields.io/badge/-Blog-333?logo=react&logoColor=white&style=for-the-badge)](https://hejnino.tistory.com/)
 [![Instagram](https://img.shields.io/badge/-Instagram-333?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/dazezd_z/)
+
+<br />
