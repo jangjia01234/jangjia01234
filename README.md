@@ -1,6 +1,6 @@
 # Hej, jag är Jia ! <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 
-I'm Jia, a frontend web developer with a focus on *React* and *JavaScript*. <br/> I build interactive and functional user interfaces that are optimized for performance and accessibility.
+I'm Jia, a frontend developer with a focus on *React* and *JavaScript*. <br/> I build interactive and functional user interfaces that are optimized for performance and accessibility.
 
 <br />
 
