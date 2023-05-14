@@ -1,6 +1,6 @@
 # Hej, jag är Jia ! <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 
-I'm Jia, a **frontend developer** who mainly uses *React* and *JavaScript*. <br/> My passion is to create high-performance, accessible user interfaces that leave a lasting impression on users. Whether I'm building a single-page application or working on a complex web project, I always strive for the best possible user experience.
+I'm Jia, a **frontend developer** who mainly uses *React* and *JavaScript*. ✨️ <br/> My passion is to create high-performance, accessible user interfaces that leave a lasting impression ⚡️ on users. Whether I'm building a single-page application or working on a complex web project, I always strive 🔥 for the best possible user experience.
 
 <br />
 
