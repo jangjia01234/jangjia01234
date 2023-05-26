@@ -9,7 +9,7 @@ I'm Jia, a **frontend developer** who mainly uses *React* and *JavaScript*. âœ¨ï
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=BDDEA1)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=BDDEA1)
 ![](https://img.shields.io/badge/Style-StyledComponents-informational?style=flat&logo=styled-components&logoColor=white&color=BDDEA1)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=BDDEA1)
+![](https://img.shields.io/badge/Tools-PWA-informational?style=flat&logo=pwa&logoColor=white&color=BDDEA1)
 ![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=BDDEA1)
 ![](https://img.shields.io/badge/Hosting-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=BDDEA1)
 
