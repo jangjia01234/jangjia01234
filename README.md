@@ -21,7 +21,7 @@ I'm Jia, a **frontend developer** who mainly uses *React*. ✨️ <br/> My passi
 
 <br />
 
-## 🌐 Connect with Me
+## ✉️ Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jiajang/)
 [![Blog](https://img.shields.io/badge/-Blog-333?logo=react&logoColor=white&style=for-the-badge)](https://hejnino.tistory.com/)
