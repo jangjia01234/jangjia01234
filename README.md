@@ -1,7 +1,7 @@
 <br/> 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Modak&weight=600&size=40&duration=4000&pause=800&color=7FEE8A&center=true&vCenter=true&width=500&height=60&lines=Hej%2C+v%C3%A4rlden!+Jag+heter+Jia!;Hello%2C+World!+I'm+Jia!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Modak&size=40&duration=3000&pause=800&color=5FA9FF&center=true&vCenter=true&width=500&lines=Hej%2C+v%C3%A4rlden!+Jag+heter+Jia!;Hello%2C+World!+I'm+Jia!)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,12 +14,12 @@ I'm Jia, a <strong>frontend developer</strong> who mainly uses <strong>React</st
 
 ## 🔧 Skills & Tools
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=BDDEA1)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=BDDEA1)
-![](https://img.shields.io/badge/Style-StyledComponents-informational?style=flat&logo=styled-components&logoColor=white&color=BDDEA1)
-![](https://img.shields.io/badge/Tools-PWA-informational?style=flat&logo=pwa&logoColor=white&color=BDDEA1)
-![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=BDDEA1)
-![](https://img.shields.io/badge/Hosting-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=BDDEA1)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=5FA9FF)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=5FA9FF)
+![](https://img.shields.io/badge/Style-StyledComponents-informational?style=flat&logo=styled-components&logoColor=white&color=5FA9FF)
+![](https://img.shields.io/badge/Tools-PWA-informational?style=flat&logo=pwa&logoColor=white&color=5FA9FF)
+![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=5FA9FF)
+![](https://img.shields.io/badge/Hosting-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=5FA9FF)
 
 <br />
 
