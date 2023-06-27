@@ -1,4 +1,4 @@
-<br/> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Modak&weight=600&size=40&pause=1000&color=7FEE8A&width=480&height=60&lines=Hej%2C+v%C3%A4rlden!+Jag+heter+Jia+;Hello%2C+World!+I'm+Jia+)](https://git.io/typing-svg)
+<br/> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Modak&weight=600&size=40&duration=4000&pause=800&color=7FEE8A&center=true&vCenter=true&width=500&height=60&lines=Hej%2C+v%C3%A4rlden!+Jag+heter+Jia!;Hello%2C+World!+I'm+Jia!)](https://git.io/typing-svg)
 
 ##
 
