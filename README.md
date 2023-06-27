@@ -1,4 +1,6 @@
-# Hej, jag är Jia Jang ! <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="34px" />
+<br/> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Modak&weight=600&size=40&pause=1000&color=1EEE8E&width=480&height=60&lines=Hej%2C+v%C3%A4rlden!+Jag+heter+Jia+;Hello%2C+World!+I'm+Jia+)](https://git.io/typing-svg)
+
+##
 
 I'm Jia, a **frontend developer** who mainly uses *React*. ✨️ <br/> My passion is to create high-performance, accessible user interfaces that leave a lasting impression ⚡️ on users. Whether I'm building a single-page application or working on a complex project, I always strive 🔥 for the best possible user experience.
 
@@ -15,9 +17,9 @@ I'm Jia, a **frontend developer** who mainly uses *React*. ✨️ <br/> My passi
 
 <br />
 
-## 📊 GitHub Stats
+## 🥇 Stat Trophies
 
-![Jang Jia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangjia01234&show_icons=true&theme=apprentice)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord)](https://github.com/jangjia01234/github-profile-trophy)
 
 <br />
 
