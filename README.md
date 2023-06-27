@@ -25,7 +25,7 @@ I'm Jia, a <strong>frontend developer</strong> who mainly uses <strong>React</st
 
 ## 🥇 Stat Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord)](https://github.com/jangjia01234/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord&row=2&column=4)](https://github.com/jangjia01234/github-profile-trophy)
 
 <br />
 
