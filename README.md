@@ -8,7 +8,9 @@
 ##
 
 <div align="center">
-I'm Jia, a <strong>frontend developer</strong> who mainly uses <strong>React</strong>. ✨️ <br/> My passion is to create high-performance, accessible user interfaces that leave a lasting impression ⚡️ on users. <br/> Whether I'm building a single-page application or working on a complex project, <br/> I always strive 🔥 for the best possible user experience.
+I'm Jia, a <strong>frontend developer</strong> who mainly uses <strong>React</strong>. ✨️ 
+  <br/> My passion is to create high-performance, accessible user interfaces that leave a lasting impression ⚡️ on users.   <br/> Whether I'm building a single-page application or working on a complex project, 
+  <br/> I always strive 🔥 for the best possible user experience.
 
 <br /><br />
 
