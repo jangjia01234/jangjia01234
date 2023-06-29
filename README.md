@@ -34,7 +34,7 @@ I'm Jia, a **frontend developer** who mainly uses **React**. ✨️ My passion i
 [![trophy](https://github-profile-trophy.vercel.app/?username=jangjia01234&theme=discord&row=2&column=4)](https://github.com/jangjia01234/github-profile-trophy)
 
 ## 📧 Contact 
-- Email: <a href="mailto:jangjia01234@gmail.com">Click here to send email</a>
+- Email: jangjia01234@gmail.com 👉 <a href="mailto:jangjia01234@gmail.com">Click here to send email</a>
 - SNS: 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jiajang/)
 [![Blog](https://img.shields.io/badge/-Blog-333?logo=react&logoColor=white&style=for-the-badge)](https://hejnino.tistory.com/)
