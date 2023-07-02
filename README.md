@@ -14,7 +14,7 @@ I'm Jia, a **Frontend developer** who mainly uses **React**. ✨️ My passion i
 ![](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white&color=2959B4)
 ![](https://img.shields.io/badge/Vercel-informational?style=flat&logo=vercel&logoColor=white&color=2959B4)
 
-+ now studying ..
++ Now studying ..
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=394E76)
 ![](https://img.shields.io/badge/NEXT.JS-informational?style=flat&logo=nextdotjs&logoColor=white&color=394E76)
 
