@@ -4,7 +4,7 @@
 
 </h1>
 
-I'm Jia, a **Frontend developer** who mainly uses **React**. ✨️ My passion is to create high-performance, accessible user interfaces that leave a lasting impression ⚡️ on users. Whether I'm building a single-page application or working on a complex project, I always strive 🔥 for the best possible user experience. 
+I'm Jia, a **frontend developer** who mainly uses **React**. ✨️ My passion is to create high-performance, accessible user interfaces that leave a lasting impression ⚡️ on users. Whether I'm building a single-page application or working on a complex project, I always strive 🔥 for the best possible user experience. 
 
 ## 🔧 Skills & Tools
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2959B4)
