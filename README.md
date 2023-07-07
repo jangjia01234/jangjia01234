@@ -34,7 +34,7 @@ I'm Jia, a **frontend developer** who mainly uses **React**. ✨️ My passion i
 - 한국무역협회 X 오픈부스 IT 솔루션 박람회 서포터즈 `(2020.07 - 2020.09)`
 
 ## 📚 Contribution
-[Vercel - Next.js kr 공식 문서 번역](https://github.com/Nextjs-kr/Nextjs.kr) `(2023.06)`
+[Vercel - Next.js kr 공식 문서 한국어 번역](https://github.com/Nextjs-kr/Nextjs.kr) `(2023.06)`
 
 ## 🥇 Stat Trophies
 
