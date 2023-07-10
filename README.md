@@ -19,7 +19,6 @@ I'm Jia, a **frontend developer** who mainly uses **React**. ✨️ My passion i
 + Now studying ..
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=394E76)
 ![](https://img.shields.io/badge/NEXT.JS-informational?style=flat&logo=nextdotjs&logoColor=white&color=394E76)
-![](https://img.shields.io/badge/Storybook-informational?style=flat&logo=Storybook&logoColor=white&color=394E76)
 
 ## 👩🏻‍💻 Experiences
 - SBA X SeSAC SeSACthon Front-End 개발자 `(2023.05.03 - 2023.06.16)`
