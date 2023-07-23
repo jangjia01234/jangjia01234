@@ -29,7 +29,7 @@ I'm Jia, a **frontend developer** who mainly uses **React**. ✨️ My passion i
 - Google Developer Student Clubs X Hufs Hackathon UI/UX 디자이너 `(2022.07.23 - 2023.07.24)`
 - Cloud MSP 기업 Bespin Global Digital Marketer `(2022.01 - 2023.05)`
 - Microsoft Supporters `(2020.11 - 2021.01)`
-- 한국무역협회 X 오픈부스 IT 솔루션 박람회 서포터즈 `(2020.07 - 2020.09)`
+- 한국무역협회 X 오픈부스 IT 솔루션 박람회 기자단 `(2020.07 - 2020.09)`
 
 ## 📚 Contribution
 [Vercel - Next.js kr 공식 문서 한국어 번역](https://github.com/Nextjs-kr/Nextjs.kr) `(2023.06)`
