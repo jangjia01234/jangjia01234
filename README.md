@@ -6,6 +6,8 @@
 
 I'm Jia, a **frontend developer** who mainly uses **React**. ✨️ My passion is to create high-performance, accessible user interfaces that leave a lasting impression ⚡️ on users. Whether I'm building a single-page application or working on a complex project, I always strive 🔥 for the best possible user experience. 
 
+✨ Resume ✨: https://jiajang.simple.ink 
+
 ## 🔧 Skills & Tools
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2959B4)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=2959B4)
@@ -38,6 +40,5 @@ I'm Jia, a **frontend developer** who mainly uses **React**. ✨️ My passion i
 [![trophy](https://github-profile-trophy.vercel.app/?username=jangjia01234&theme=discord&row=2&column=4)](https://github.com/jangjia01234/github-profile-trophy)
 
 ## 📧 Contact 
-- ✨ Resume ✨: https://jiajang.simple.ink 
 - Email: <a href="mailto:jangjia01234@gmail.com">Click here to send email</a>
-- Other Links: https://linktr.ee/jangjia01234
+- Links: https://linktr.ee/jangjia01234
