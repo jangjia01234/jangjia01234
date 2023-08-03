@@ -39,6 +39,7 @@ I'm Jia, a **frontend developer** who mainly uses **React**. ✨️ My passion i
 
 ## 📧 Contact 
 - Email: <a href="mailto:jangjia01234@gmail.com">Click here to send email</a>
+- Resume: https://jiajang.simple.ink
 - SNS: 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jiajang/)
 [![Blog](https://img.shields.io/badge/-Blog-333?logo=react&logoColor=white&style=for-the-badge)](https://hejnino.tistory.com/)
