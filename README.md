@@ -6,7 +6,7 @@
 
 I'm Jia, a **frontend developer** who mainly uses **React**. ✨️ My passion is to create high-performance, accessible user interfaces that leave a lasting impression ⚡️ on users. Whether I'm building a single-page application or working on a complex project, I always strive 🔥 for the best possible user experience. 
 
-✨ Resume ✨: https://jiajang.simple.ink 
+✨ [Resume](https://jiajang.notion.site/Jia-Jang-ab06b313453c467ab9f772df3422073d?pvs=4) |  [Portfolio](https://jiajang.simple.ink)
 
 ## 🔧 Skills & Tools
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2959B4)
