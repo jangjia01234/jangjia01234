@@ -4,7 +4,7 @@
 
 </h1>
 
-Hej! I'm a **frontend developer** Jia Jang. ✨️ My passion is to create high-performance, accessible user interfaces that leave a lasting impression ⚡️ on users. Whether I'm building a single-page application or working on a complex project, I always strive 🔥 for the best possible user experience. 
+Hej! I'm a **frontend developer** Jia. ✨️ My passion is to create high-performance, accessible user interfaces that leave a lasting impression ⚡️ on users. Whether I'm building a single-page application or working on a complex project, I always strive 🔥 for the best possible user experience. 
 
 ✨ [Resume](https://jiajang.notion.site/Jia-Jang-ab06b313453c467ab9f772df3422073d?pvs=4) |  [Portfolio](https://jiajang.simple.ink)
 
