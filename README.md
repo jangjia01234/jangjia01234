@@ -25,7 +25,7 @@
 - [GDSC X HUFS] Hackathon UI/UX 디자이너 `(2022.07.23 - 2023.07.24)`
 
 ## 📚 Contribution
-[Vercel - Next.js kr 공식 문서 한국어 번역](https://github.com/Nextjs-kr/Nextjs.kr) `(2023.06)`
+[Vercel - Next.js kr 공식 문서 한국어 번역](https://github.com/Nextjs-kr/Nextjs.kr) 
 
 ## 🥇 Stat Trophies
 
