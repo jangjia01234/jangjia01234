@@ -5,10 +5,9 @@
 ## 🔧 Skills & Tools
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2959B4)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=2959B4)
-![](https://img.shields.io/badge/PWA-informational?style=flat&logo=pwa&logoColor=white&color=2959B4)
 ![](https://img.shields.io/badge/StyledComponents-informational?style=flat&logo=styled-components&logoColor=white&color=2959B4)
 ![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=white&color=2959B4)
-![](https://img.shields.io/badge/Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=2959B4)
+![](https://img.shields.io/badge/PWA-informational?style=flat&logo=pwa&logoColor=white&color=2959B4)
 ![](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white&color=2959B4)
 ![](https://img.shields.io/badge/Vercel-informational?style=flat&logo=vercel&logoColor=white&color=2959B4)
 
