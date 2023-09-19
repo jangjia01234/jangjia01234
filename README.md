@@ -32,4 +32,4 @@
 
 ## 📧 Contact 
 - Email: <a href="mailto:jangjia01234@gmail.com">Click here to send email</a>
-- More about me ✨: https://linktr.ee/jangjia01234
+- More about me ✨: [Link](https://linktr.ee/jangjia01234)
