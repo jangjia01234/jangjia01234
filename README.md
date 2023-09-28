@@ -14,7 +14,6 @@
 
 ## 👩🏻‍💻 Experiences
 - [Apple X POSTECH] Apple Developer Academy 3기 `(2024.03 - 2024.12)`
-- [Prevenotics] Frontend 개발자 (Intern) `(2023.04 - 2023.05)`
 - [Wecode] Web Dev Bootcamp (Frontend) `(2023.01 - 2023.04)`
 
 ## 📧 Contact 
