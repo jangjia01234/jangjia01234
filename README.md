@@ -3,14 +3,14 @@
 </p>
 
 ## 🔧 Skills & Tools
-![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=2959B4)
-![](https://img.shields.io/badge/PWA-informational?style=flat&logo=pwa&logoColor=white&color=2959B4)
-![](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white&color=2959B4)
-![](https://img.shields.io/badge/Vercel-informational?style=flat&logo=vercel&logoColor=white&color=2959B4)
-![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2959B4)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=394E76)
+![](https://img.shields.io/badge/PWA-informational?style=flat&logo=pwa&logoColor=white&color=394E76)
+![](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white&color=394E76)
+![](https://img.shields.io/badge/Vercel-informational?style=flat&logo=vercel&logoColor=white&color=394E76)
+![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=394E76)
 
 - Now studying ..
-![](https://img.shields.io/badge/Swift-informational?style=flat&logo=swift&logoColor=white&color=394E76)
+![](https://img.shields.io/badge/Swift-informational?style=flat&logo=swift&logoColor=white&color=2959B4)
 
 ## 👩🏻‍💻 Experiences
 - [Apple X POSTECH] Apple Developer Academy 3기 `(2024.03 - 2024.12)`
