@@ -11,5 +11,3 @@
 
 Now studying 
 ![](https://img.shields.io/badge/Swift-informational?style=flat&logo=swift&logoColor=white&color=2959B4) in Apple Developer Academy @ POSTECH
-### 📧 Contact 
-- Email: <a href="mailto:jangjia01234@gmail.com">Click here to send email</a>
