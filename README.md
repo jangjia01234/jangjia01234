@@ -17,12 +17,5 @@
 - [Prevenotics] Frontend 개발자 (Intern) `(2023.04 - 2023.05)`
 - [Wecode] Web Dev Bootcamp (Frontend) `(2023.01 - 2023.04)`
 
-## 📚 Contribution
-[Vercel - Next.js kr 공식 문서 한국어 번역](https://github.com/Nextjs-kr/Nextjs.kr) 
-
-## 🥇 Stat Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jangjia01234&theme=discord&row=2&column=4)](https://github.com/jangjia01234/github-profile-trophy)
-
 ## 📧 Contact 
 - Email: <a href="mailto:jangjia01234@gmail.com">Click here to send email</a>
