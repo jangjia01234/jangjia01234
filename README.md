@@ -13,12 +13,9 @@
 ![](https://img.shields.io/badge/Swift-informational?style=flat&logo=swift&logoColor=white&color=394E76)
 
 ## 👩🏻‍💻 Experiences
-- [SBA X SeSAC] SeSACthon Frontend 개발자 `(2023.05.03 - 2023.06.16)`
+- [Apple X POSTECH] Apple Developer Academy 3기 `(2024.03 - 2024.12)`
 - [Prevenotics] Frontend 개발자 (Intern) `(2023.04 - 2023.05)`
 - [Wecode] Web Dev Bootcamp (Frontend) `(2023.01 - 2023.04)`
-- [Kakao X Goorm] 9oormthon Frontend 개발자 `(2022.11.15 - 2022.11.18)`
-- [Nomad Coders] Web Dev Course `(2022.07 - 2022.09)`
-- [GDSC X HUFS] Hackathon UI/UX 디자이너 `(2022.07.23 - 2023.07.24)`
 
 ## 📚 Contribution
 [Vercel - Next.js kr 공식 문서 한국어 번역](https://github.com/Nextjs-kr/Nextjs.kr) 
@@ -29,4 +26,3 @@
 
 ## 📧 Contact 
 - Email: <a href="mailto:jangjia01234@gmail.com">Click here to send email</a>
-- More about me ✨: [Link](https://linktr.ee/jangjia01234)
