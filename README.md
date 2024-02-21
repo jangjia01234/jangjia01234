@@ -6,4 +6,6 @@
 
 - Now studying ...
 ![](https://img.shields.io/badge/Swift-informational?style=flat&logo=swift&logoColor=white&color=2959B4)
+![](https://img.shields.io/badge/UIKit-informational?style=flat&logo=uikit&logoColor=white&color=2959B4)
+![](https://img.shields.io/badge/SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=2959B4)
 - Apple Developer Academy @ POSTECH 3기 `~2024.12`
