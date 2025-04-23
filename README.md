@@ -6,8 +6,9 @@
 
 - Now studying ...
 ![](https://img.shields.io/badge/Swift-informational?style=flat&logo=swift&logoColor=black&color=white)
+![](https://img.shields.io/badge/SwiftUI-informational?style=flat&logo=swift&logoColor=black&color=white)
 ![](https://img.shields.io/badge/UIKit-informational?style=flat&logo=uikit&logoColor=black&color=white)
-![](https://img.shields.io/badge/SwiftUI-informational?style=flat&logoColor=black&color=white)
-![](https://img.shields.io/badge/visionOS-informational?style=flat&logoColor=black&color=white)
-- Apple Developer Academy @ POSTECH 3기 `~2024.12`
+![](https://img.shields.io/badge/Dart-informational?style=flat&logo=dart&logoColor=black&color=white)
+![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=black&color=white)
+- Apple Developer Academy @ POSTECH 3기 
 - WWDC24 Swift Student Challenge Distinguished Winner
